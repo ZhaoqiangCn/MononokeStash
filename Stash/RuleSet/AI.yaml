@@ -38,4 +38,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
 
   # > Bard
-  - DOMAIN,bard.google.com
+  - DOMAIN,gemini.google.com
